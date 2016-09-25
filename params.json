@@ -1,0 +1,6 @@
+{
+  "name": "Ft retro",
+  "tagline": "Realisation d'un shoot'em up en scrolling horizontal en c++",
+  "body": "# ft_retro\r\n\r\nRealisation d'un shoot'em up en scrolling horizontal en c++\r\n\r\nL'objectif est de survivre en détruisant le maximum d'ennemie.\r\n\r\nLe Dragon de jeu sont épique. Lorsqu'il apparaissent la difficulté de ce jeu devient hardcore. Par contre selon les power up le jeu devient trop facile.\r\n\r\nJ'ai beaucoup aimé faire ce projet avec mon collègue Loic Binet\r\n\r\n![ft_retro](https://i.ytimg.com/vi/hDkU_zIUWnI/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nqshnPt7Hec8KRvQhEQKPTy2GXA \"ft_retro screenshot\")\r\n\r\n[Click to watch Demo](https://www.youtube.com/watch?v=hDkU_zIUWnI)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
